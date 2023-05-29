@@ -9,3 +9,7 @@ table{
 td{
     text-align: center;
 }
+td:hover{
+    font-size: 40px;
+    transition: 1s;
+}
